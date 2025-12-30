@@ -1,0 +1,8 @@
+{
+  "name": "Sapfire Omni-Studio",
+  "description": "High-tech workspace powered by Gemini for multimodal chat, image generation, and real-time interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
